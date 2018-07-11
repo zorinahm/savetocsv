@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mailchimp.iml" filepath="$PROJECT_DIR$/mailchimp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mailchimp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mailchimp_main.iml" group="mailchimp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mailchimp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mailchimp_test.iml" group="mailchimp" />
+    </modules>
+  </component>
+</project>
